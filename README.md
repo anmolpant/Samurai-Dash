@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/anmolpant/Samurai-Dash/blob/master/assets/nlpwpython.jpg" alt="NLTK"/>
+<img src="https://github.com/anmolpant/Samurai-Dash/blob/main/logo.PNG" alt="logo"/>
 </p>
 
 ![Generic badge](https://img.shields.io/badge/Unity-black)
@@ -35,7 +35,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-**MIT &copy; [Anmol Pant](https://github.com/anmolpant/Natural-Language-Processing-Tasks/blob/master/LICENSE)**
+**GNU &copy; [Anmol Pant](https://github.com/anmolpant/Samurai-Dash/blob/main/LICENSE)**
 
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
