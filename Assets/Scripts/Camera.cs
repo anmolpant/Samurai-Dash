@@ -31,6 +31,5 @@ public class Camera : MonoBehaviour
     void LateUpdate()
     {
         transform.position = new Vector3( Mathf.Clamp(playerTransform.position.x, xMin, xMax), Mathf.Clamp(playerTransform.position.y, yMin, yMax), -10);
-        //transform.position = new Vector3(playerTransform.position.x, playerTransform.position.y, -10);
     }
 }
