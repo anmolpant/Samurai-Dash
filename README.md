@@ -22,6 +22,12 @@ With the only way out being accumulating collectables, slashing through walls an
 
 ![Generic badge](https://img.shields.io/badge/Unity-black)
 
+## GamePlay
+<p align="center">
+<img src="https://thumbs.gfycat.com/WavyShinyAnole-size_restricted.gif">
+</p>
+<br>
+
 ## Top Language
 
 [![GitHub top language](https://img.shields.io/github/languages/top/anmolpant/Samurai-Dash?logo=c#&style=social)](https://github.com/anmolpant/)
@@ -35,6 +41,13 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Tech Stacks Used
+
+<p align="center">
+<img src="https://github.com/anmolpant/Samurai-Dash/blob/main/screenshots/techstacks.png" alt="techstacks"/>
+</p>
+<br>
 
 ## License
 
