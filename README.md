@@ -32,6 +32,20 @@ With the only way out being accumulating collectables, slashing through walls an
 
 [![GitHub top language](https://img.shields.io/github/languages/top/anmolpant/Samurai-Dash?logo=c#&style=social)](https://github.com/anmolpant/)
 
+## Screenshots
+<p align="center">
+<img src="https://github.com/anmolpant/Samurai-Dash/blob/main/screenshots/first_scene.PNG">
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/anmolpant/Samurai-Dash/blob/main/screenshots/level1_4.PNG">
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/anmolpant/Samurai-Dash/blob/main/screenshots/exit_door.PNG">
+</p>
+<br>
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
